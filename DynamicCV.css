@@ -1,1 +1,16 @@
-cbytes
+#identify {
+    text-align: center;
+    color: cadetblue;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.section {
+    background: beige;
+}
+
+.color_head{
+    color: cadetblue;
+}
