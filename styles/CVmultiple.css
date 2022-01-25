@@ -1,6 +1,6 @@
-a{
+a {
     text-decoration: none;
-    color: darkolivegreen;
+    color: cadetblue;
 }
 
 .color_head {
@@ -16,4 +16,8 @@ a{
     margin-bottom: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 20px;
+}
+
+.center {
+    text-align: center;
 }

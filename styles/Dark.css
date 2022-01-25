@@ -1,6 +1,6 @@
 #identify {
     color: darkblue;
-    background-color: grey;
+    background-color: beige;
 }
 
 .circle {
@@ -8,7 +8,8 @@
 }
 
 .color_head {
-    color: midnightblue;
+    color: whitesmoke;
+    background-color: black;
 }
 
 .section {
