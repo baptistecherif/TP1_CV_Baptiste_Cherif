@@ -1,6 +1,5 @@
 #identify {
-    text-align: center;
-    color: cadetblue;
+    color: darkblue;
 }
 
 .circle {
@@ -8,9 +7,13 @@
 }
 
 .section {
-    background: beige;
+    text-align: center;
 }
 
 .color_head{
     color: cadetblue;
+}
+
+body{
+    background-color: darkolivegreen;
 }
