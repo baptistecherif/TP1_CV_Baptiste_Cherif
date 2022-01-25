@@ -7,15 +7,15 @@
     border-radius: 50%;
 }
 
+.color_head {
+    color: midnightblue;
+}
+
 .section {
     text-align: center;
 }
 
-body{
-    background-color: white;
-}
-
-.main{
+.main {
     height: 2100px;
     width: 800px;
     margin : 20px auto;
