@@ -1,0 +1,26 @@
+#identify {
+    color: darkblue;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.section {
+    text-align: center;
+}
+
+body{
+    background-color: white;
+}
+
+.main{
+    height: 2100px;
+    width: 800px;
+    margin : 20px auto;
+    box-shadow: 5px 7px 15px 8px #b9b6b6;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
